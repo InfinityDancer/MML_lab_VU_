@@ -22,3 +22,6 @@ And activate the environment:
 
 Now, change directory to /home/vsu/MML_lab_VU_ and run:
 > pip install -r pytorch_requirements.txt
+
+To add kernel in Jupyter Notebook:
+> python -m ipykernel install --user --name MMLenv --display-name "MMLenv"
