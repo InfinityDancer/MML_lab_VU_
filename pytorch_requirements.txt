@@ -11,4 +11,3 @@ git+https://github.com/openai/CLIP.git
 requests==2.32.5
 pycocotools==2.0.10
 seaborn==0.13.2
-gymnasium==1.2.2
